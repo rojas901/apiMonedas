@@ -14,7 +14,7 @@ import javax.persistence.Table;
 
 
 @Entity
-@Table(name = "cambioMoneda")
+@Table(name = "CambioMoneda")
 public class Cambio {
 
     @Id
